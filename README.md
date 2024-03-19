@@ -1,4 +1,4 @@
-|      履歷        |<img src="https://avatars.githubusercontent.com/file2" width=100 height=100/>|
+|      履歷        |<img src="https://avatars.githubusercontent.com/readme" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
 | 姓名             |廖胤棨                  |
 | 學校             | 高雄科技大學                  |
