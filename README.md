@@ -65,3 +65,7 @@
     <td><img src="https://github.com/LiaiYC/class/blob/main/unnamed.jpg" width=200/></td>
   </tr>
 </table>
+<br/>
+<h2>網站QRcode</h2>
+<br/>
+<img src="" width=200/>
