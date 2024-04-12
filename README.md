@@ -60,6 +60,6 @@
   </tr>
   <tr>
     <td><a href="https://www.nkust.edu.tw">高雄科技大學 電子工程系</a></td>
-    <td><img src=></td>
+    <td><img src="https://github.com/LiaiYC/class/blob/main/unnamed.jpg" width=200/></td>
   </tr>
 </table>
