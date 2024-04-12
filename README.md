@@ -48,18 +48,18 @@
   </tr>
   <tr>
     <td><a href="https://wpes.tc.edu.tw">外埔國小</a></td>
-    <td></td>
+    <td><img src=></td>
   </tr>
   <tr>
     <td><a href="https://wpjh.tc.edu.tw">外埔國中</a></td>
-    <td></td>
+    <td><img src=></td>
   </tr>
   <tr>
     <td><a href="https://tcvs.tc.edu.tw">大甲高工 電子科</a></td>
-    <td></td>
+    <td><img src=></td>
   </tr>
   <tr>
-    <td><a href="https://www.nkust.edu.tw">高雄科技大學</a></td>
-    <td></td>
+    <td><a href="https://www.nkust.edu.tw">高雄科技大學 電子工程系</a></td>
+    <td><img src=></td>
   </tr>
 </table>
