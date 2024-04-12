@@ -68,4 +68,4 @@
 <br/>
 <h2>網站QRcode</h2>
 <br/>
-<img src="" width=200/>
+<img src="https://github.com/LiaiYC/class/blob/main/3DLCAYWZDB.jpg" width=200/>
