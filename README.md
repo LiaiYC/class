@@ -47,7 +47,7 @@
     <td><i>校徽</i></td>
   </tr>
   <tr>
-    <td><a herf="https://wpes.tc.edu.tw/">外埔國小</a></td>
+    <td><a herf="https://wpes.tc.edu.tw">外埔國小</a></td>
     <td></td>
   </tr>
 </table>
