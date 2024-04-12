@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><a href="https://wpjh.tc.edu.tw">外埔國中</a></td>
-    <td><img src=></td>
+    <td><img src="https://github.com/LiaiYC/class/blob/main/%E5%A4%96%E5%9F%94%E5%9C%8B%E4%B8%AD.png" width=200/></td>
   </tr>
   <tr>
     <td><a href="https://tcvs.tc.edu.tw">大甲高工 電子科</a></td>
