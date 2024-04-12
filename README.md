@@ -69,3 +69,8 @@
 <h2>網站QRcode</h2>
 <br/>
 <img src="https://github.com/LiaiYC/class/blob/main/3DLCAYWZDB.jpg" width=200/>
+<br/>
+<h2>統神端火鍋</h2>
+<a href="https://www.youtube.com/watch?v=vKB2Lg-IM3I" target="_blank"><img src="https://img.youtube.com/vi/vKB2Lg-IM3I/0.jpg" 
+alt="統神端火鍋" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
