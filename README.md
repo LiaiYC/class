@@ -41,6 +41,8 @@
 </table>
 <br/>
 <br/>
+<h2>學歷資料</h2>
+<br/>
 <table>
   <tr>
     <td><i>畢業學校</i></td>
