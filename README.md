@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><a href="https://tcvs.tc.edu.tw">大甲高工 電子科</a></td>
-    <td><img src=></td>
+    <td><img src="https://github.com/LiaiYC/class/blob/main/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%AB%8B%E5%A4%A7%E7%94%B2%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1.jpeg" width=200/></td>
   </tr>
   <tr>
     <td><a href="https://www.nkust.edu.tw">高雄科技大學 電子工程系</a></td>
