@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><a href="https://wpes.tc.edu.tw">外埔國小</a></td>
-    <td><img src=></td>
+    <td><img src="https://github.com/LiaiYC/class/blob/main/%E5%A4%96%E5%9F%94%E5%9C%8B%E5%B0%8F.jpeg" width=200/></td>
   </tr>
   <tr>
     <td><a href="https://wpjh.tc.edu.tw">外埔國中</a></td>
