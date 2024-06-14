@@ -39,14 +39,19 @@
         <section id="where">
             <h2>警報系統架設位置</h2>
             <p>市區火災: 可結合智慧燈桿，或車速照相裝置同時安裝在其旁邊或桿子上。</p>
+            <img src="city.jpg" alt="城市">
             <p>鄉鎮火災: 可以在路燈號誌上安裝攝影機，同時完善了鄉鎮安全疑慮，也能進行火災偵測。</p>
             <p>森林火災: 結合動物保育監控的攝影機同時進行火災偵測。</p>
+            <img src="TREE.jpg" alt="森林">
             <p>工廠火災: 結合影像的便是會速度更快減少損失。</p>
         </section>
         <section id="references">
             <h2>參考資料</h2>
             <ul>
                 <li><a href="https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=13_content&SiteID=1&MmmID=1036233405427625204&Trt_idx=3687">嵌入式火災影像分析技術-視覺型火災偵測系統-工研院</a></li>
+            </ul>
+             <ul>
+                <li><a href="https://youtu.be/U8Bt_sBfiBM?feature=shared">youtube</a></li>
             </ul>
         </section>
     </main>
