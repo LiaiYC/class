@@ -20,6 +20,10 @@
         </ul>
     </nav>
     <main>
+        <section>
+            <h2>QRcode</h2>
+            <img src="螢幕擷取畫面 2024-06-14 195614.png" alt="條碼" style="width:200px; height:200px;">
+        </section>
         <section id="why">
             <h2>為何需要火災警報</h2>
             <p>減少財產損失: 火災不只帶來生命危險，對周圍建築物以及人民財產會帶來損害。</p>
@@ -39,11 +43,13 @@
         <section id="where">
             <h2>警報系統架設位置</h2>
             <p>市區火災: 可結合智慧燈桿，或車速照相裝置同時安裝在其旁邊或桿子上。</p>
-            <img src="city.jpg" alt="城市">
+            <img src="city.jpg" alt="城市" style="width:200px; height:200px;">
             <p>鄉鎮火災: 可以在路燈號誌上安裝攝影機，同時完善了鄉鎮安全疑慮，也能進行火災偵測。</p>
+            <img src="contry.jpg" alt="鄉鎮" style="width:200px; height:200px;">
             <p>森林火災: 結合動物保育監控的攝影機同時進行火災偵測。</p>
-            <img src="TREE.jpg" alt="森林">
+            <img src="TREE.jpg" alt="森林" style="width:200px; height:200px;">
             <p>工廠火災: 結合影像的便是會速度更快減少損失。</p>
+            <img src="com.jpg" alt="工廠" style="width:200px; height:200px;">
         </section>
         <section id="references">
             <h2>參考資料</h2>
