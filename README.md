@@ -1,76 +1,54 @@
-|      履歷        |<img src="https://github.com/LiaiYC/class/blob/main/110.PNG" width=100/>|
+|      題目       |城市火災警報解決方案​|
 | ---------------- |:-----------------------------:|
-| 姓名             |廖胤棨                  |
+| 組別             |第I組                  |
 | 學校             | 高雄科技大學                  |
-| 電子郵件         | C110252177@nkust.edu.tw          |
-| 系所             | 電子工程系                  |
-| 部別             | 進修部四技                 |
-<br/>
-<br/>
-<h2>自介</h2>
-<br/>
-<h3>熱衷於自學各類程式語言，並且也學習過建築製圖AutoCAD，喜好解決問題的成就感，且具有耐心 好奇心 行動力。</h3>
-<br/>
-<h2>累積專長</h2>
-<br/>
-<table>
-  <tr>
-      <td><i>技能</i></td>
-      <td><i>熟練程度</i></td>
-  </tr>
-  <tr>
-      <td>C++</td>
-      <td>熟知基本語法與函式運用，能夠撰寫並修正問題</td>
-  </tr>
-  <tr>
-      <td>Python</td>
-      <td>熟知基本語法與函式運用，能夠撰寫並修正問題</td>
-  </tr>
-  <tr>
-      <td>AutoCAD</td>
-      <td>曾經兼職接案，負責繪製建築結構製圖</td>
-  </tr>
-  <tr>
-      <td>網頁設計</td>
-      <td>學習過網頁架構(HTML)，正在自學網頁設計(CSS)和(JavaScrip)</td>
-  </tr>
-  <tr>
-      <td>R語言</td>
-      <td>近期自學，能運用其語言做資料處理與運算</td>
-  </tr>
-</table>
-<br/>
-<br/>
-<h2>學歷資料</h2>
-<br/>
-<table>
-  <tr>
-    <td><i>畢業學校</i></td>
-    <td><i>校徽</i></td>
-  </tr>
-  <tr>
-    <td><a href="https://wpes.tc.edu.tw">外埔國小</a></td>
-    <td><img src="https://github.com/LiaiYC/class/blob/main/%E5%A4%96%E5%9F%94%E5%9C%8B%E5%B0%8F.jpeg" width=200/></td>
-  </tr>
-  <tr>
-    <td><a href="https://wpjh.tc.edu.tw">外埔國中</a></td>
-    <td><img src="https://github.com/LiaiYC/class/blob/main/%E5%A4%96%E5%9F%94%E5%9C%8B%E4%B8%AD.png" width=200/></td>
-  </tr>
-  <tr>
-    <td><a href="https://tcvs.tc.edu.tw">大甲高工 電子科</a></td>
-    <td><img src="https://github.com/LiaiYC/class/blob/main/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%AB%8B%E5%A4%A7%E7%94%B2%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1.jpeg" width=200/></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.nkust.edu.tw">高雄科技大學 電子工程系</a></td>
-    <td><img src="https://github.com/LiaiYC/class/blob/main/unnamed.jpg" width=200/></td>
-  </tr>
-</table>
-<br/>
-<h2>網站QRcode</h2>
-<br/>
-<img src="https://github.com/LiaiYC/class/blob/main/3DLCAYWZDB.jpg" width=200/>
-<br/>
-<h2>統神端火鍋</h2>
-<a href="https://www.youtube.com/watch?v=vKB2Lg-IM3I" target="_blank"><img src="https://img.youtube.com/vi/vKB2Lg-IM3I/0.jpg" 
-alt="統神端火鍋" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>智慧城市火災警報解決方案</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#why">為何需要火災警報</a></li>
+            <li><a href="#how">火災警報結合AI的方式</a></li>
+            <li><a href="#where">警報系統架設位置</a></li>
+            <li><a href="#references">參考資料</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="why">
+            <h2>為何需要火災警報</h2>
+            <p>減少財產損失: 火災不只帶來生命危險，對周圍建築物以及人民財產會帶來損害。</p>
+            <p>保護生命安全: 火災持續時間越長，造成的人員傷亡會越多。</p>
+            <p>支持城市規劃和管理: 數據分析和風險評估可以提高消防救火的效率並減少損失。</p>
+        </section>
+        <section id="how">
+            <h2>火災警報結合AI的方式</h2>
+            <p>相對於傳統煙霧偵測器，影像去辨識火焰和煙霧會比煙霧偵測先一步發出警告。</p>
+            <p>相對一般傳統煙霧警報器，連接上物聯網通知消防局的過程，會比影像偵測到火焰及時通知有火焰警報的速度更耗時。</p>
+            <p>有即時的影像會比只有煙霧偵測的警報聲更容易判斷是否只是誤判節省消防資源的損耗。</p>
+        </section>
+        <section id="where">
+            <h2>警報系統架設位置</h2>
+            <p>市區火災: 可結合智慧燈桿，或車速照相裝置同時安裝在其旁邊或桿子上。</p>
+            <p>鄉鎮火災: 可以在路燈號誌上安裝攝影機，同時完善了鄉鎮安全疑慮，也能進行火災偵測。</p>
+            <p>森林火災: 結合動物保育監控的攝影機同時進行火災偵測。</p>
+            <p>工廠火災: 結合影像的便是會速度更快減少損失。</p>
+        </section>
+        <section id="references">
+            <h2>參考資料</h2>
+            <ul>
+                <li><a href="https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=13_content&SiteID=1&MmmID=1036233405427625204&Trt_idx=3687">嵌入式火災影像分析技術-視覺型火災偵測系統-工研院</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>學生：廖胤棨 柯隆勳 蔡亞戰</p>
+        <p>學號：C110252177 C108252279 C108252278</p>
+    </footer>
+</body>
+</html>
